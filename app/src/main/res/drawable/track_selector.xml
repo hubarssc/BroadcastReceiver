@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-        <item android:drawable="@color/track_pressed" android:state_pressed="true"/>
-        <item android:drawable="@color/track_disabled" android:state_enabled="false"/>
-        <item android:drawable="@color/track_default"/>
+
+    <item android:state_checked="true">
+        <shape android:shape="rectangle">
+            <size android:width="36dp" android:height="20dp"/>
+            <solid android:color="@color/pink_dark"/>
+            <corners android:radius="50dp"/>
+        </shape>
+    </item>
+
+    <item android:state_checked="false">
+        <shape android:shape="rectangle">
+            <size android:width="36dp" android:height="20dp"/>
+            <solid android:color="#F0F4C3"/>
+            <corners android:radius="50dp"/>
+        </shape>
+    </item>
+
 </selector>

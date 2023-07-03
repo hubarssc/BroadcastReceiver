@@ -61,6 +61,7 @@
         android:text="@string/round_up_tip"
         android:thumb="@drawable/iphone_switch_thumb"
         app:track="@drawable/track_selector"
+        style="@style/CustomSwitchStyle"
         app:layout_constraintBottom_toTopOf="@+id/calculate_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
