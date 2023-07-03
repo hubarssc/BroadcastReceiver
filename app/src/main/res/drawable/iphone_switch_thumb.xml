@@ -7,7 +7,7 @@
         </shape>
     </item>
     <item>
-        <shape android:shape="oval">
+        <shape android:layout_width="wrap_content" android:layout_height="wrap_content" android:shape="oval">
             <solid android:color="@color/iphone_switch_thumb_color_unchecked" />
             <size android:width="24dp" android:height="24dp" />
         </shape>

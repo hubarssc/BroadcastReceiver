@@ -9,6 +9,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="iphone_switch_thumb_color_checked">#4A148C</color>
     <color name="iphone_switch_thumb_color_unchecked">#93AEB1</color>
+    <color name="track_pressed">#C51162</color>
+    <color name="track_disabled">#31101D</color>
+    <color name="track_default">#6750a4</color>
+
 
     <color name="violet">#6750a4</color>
     <color name="violet_light">#625b71</color>
