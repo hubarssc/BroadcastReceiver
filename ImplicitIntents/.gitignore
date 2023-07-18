@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+../Affirmations/
+../Dice/
+../desktop.ini
+../tipcalc/
+
