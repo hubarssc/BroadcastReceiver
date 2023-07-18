@@ -13,8 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
-../Affirmations/
-../Dice/
-../desktop.ini
-../tipcalc/
+/../*
+../
+file_to_ignore.txt
+folder_to_ignore/
+
+
+
 
