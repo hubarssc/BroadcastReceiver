@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">CustomView</string>
-    <string name="apply">Apply</string>
-    <string name="enter_the_percentage_0_100">Enter the percentage (0-100)</string>
-</resources>
