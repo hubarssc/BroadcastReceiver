@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="battery_percentage">Battery Percentage:%d</string>
+    <string name="battery_status">Battery Status:%s</string>
+    <string name="battery_temperature">Battery Temperature: %.2f °C</string>
+    <string name="battery_voltage">Battery Voltage: %.2f V</string>
+    <string name="battery_health">Battery Health: %s</string>
+
+</resources>
